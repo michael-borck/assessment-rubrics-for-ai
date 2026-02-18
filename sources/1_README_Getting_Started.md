@@ -19,7 +19,7 @@ Three complementary documents:
 
 1. **AI_Integrated_Assessment_Rubric_Template.md** — Generic framework adaptable to any AI-supported assessment
 2. **AI_Audit_CloudCore_Specific_Rubric.md** — Specific example: information security audit with AI chatbots
-3. **Adaptation_Guide_For_Different_AI_Tools.md** — How to customize for different AI modalities (LLMs, RAG, code assistants, etc.)
+3. **Adaptation_Guide_For_Different_AI_Tools.md** — How to customise for different AI modalities (LLMs, RAG, code assistants, etc.)
 
 ---
 
@@ -67,7 +67,7 @@ What will students actually use?
 ### Step 2: Start with the Template
 **Use:** `AI_Integrated_Assessment_Rubric_Template.md`
 
-This is intentionally generic—five criteria, simple 4-level scoring. Works as-is for most contexts, but expect to customize.
+This is intentionally generic—five criteria, simple 4-level scoring. Works as-is for most contexts, but expect to customise.
 
 ### Step 3: Customize
 **Use:** `Adaptation_Guide_For_Different_AI_Tools.md`
@@ -166,7 +166,7 @@ Include:
 ✓ **Creative Disciplines:** Design projects, writing, media production
 ✓ **Sciences:** Lab reports, research proposals, literature reviews
 
-**Pattern:** Anywhere students need to gather information, analyze it, synthesize findings, and communicate professionally.
+**Pattern:** Anywhere students need to gather information, analyse it, synthesise findings, and communicate professionally.
 
 ---
 
@@ -191,7 +191,7 @@ Include:
 
 ## Flexibility by Design
 
-These rubrics are intentionally **not** pixel-perfect. They're designed to be adapted, questioned, and customized. You might:
+These rubrics are intentionally **not** pixel-perfect. They're designed to be adapted, questioned, and customised. You might:
 
 - Merge criteria (reducing from 5 to 4)
 - Rename everything (we call this "Critical Engagement"; you might say "Prompt Engineering")

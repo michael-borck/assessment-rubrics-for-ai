@@ -21,9 +21,15 @@ fi
 # Convert each markdown file to docx
 # Pandoc automatically extracts metadata (author, date, copyright) from YAML frontmatter
 # and includes it in Word document properties
+# Version number added to distinguish from previous releases
+
+VERSION="v2"
+
 for md_file in "$SOURCES_DIR"/*.md; do
     filename=$(basename "$md_file")
-    docx_name="${filename%.md}.docx"
+    # Insert version number before .docx extension
+    # E.g., 1_README_Getting_Started.md -> 1_README_Getting_Started_v2.docx
+    docx_name="${filename%.md}_${VERSION}.docx"
     docx_path="$OUTPUT_DOCX_DIR/$docx_name"
 
     echo "Converting $filename -> $docx_name..."

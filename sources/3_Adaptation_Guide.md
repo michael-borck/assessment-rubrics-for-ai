@@ -8,7 +8,7 @@ copyright: "© 2026 Michael Borck. All rights reserved."
 
 > **Copyright Notice:** This document and all materials in this suite are authored by Michael Borck (AI Facilitator, School of Management and Marketing, Curtin University). They are provided for use within Curtin University. External distribution, reproduction, or use outside Curtin University requires explicit written permission.
 
-This guide shows how to adapt the generic rubric template to different AI modalities and disciplines. Start with the template, then customize using examples below.
+This guide shows how to adapt the generic rubric template to different AI modalities and disciplines. Start with the template, then customise using examples below.
 
 ---
 
@@ -65,7 +65,7 @@ This guide shows how to adapt the generic rubric template to different AI modali
 ## 3. RAG Systems or AI-Assisted Data Analysis
 
 **Best for:** Data science, research, business analytics
-**Example:** Asking AI to analyze uploaded data/documents
+**Example:** Asking AI to analyse uploaded data/documents
 
 ### Key Customization
 
@@ -79,7 +79,7 @@ This guide shows how to adapt the generic rubric template to different AI modali
 - Acknowledges uncertainty where appropriate
 
 **Example Rubric Cell (Excellent):**
-> "Demonstrates clear understanding of what data the AI analyzed and any limitations. Questions AI interpretations and considers alternatives. Where possible, validates findings by inspecting source data. Acknowledges uncertainty and AI knowledge limitations in analysis."
+> "Demonstrates clear understanding of what data the AI analysed and any limitations. Questions AI interpretations and considers alternatives. Where possible, validates findings by inspecting source data. Acknowledges uncertainty and AI knowledge limitations in analysis."
 
 **Weights might shift:**
 - Critical Engagement: 35% (data validation is crucial)
@@ -144,7 +144,7 @@ This guide shows how to adapt the generic rubric template to different AI modali
 - Does student consider stakeholder perspectives?
 
 **Example (Excellent):**
-> "AI analysis is framed within recognized business strategy frameworks. Considers multiple stakeholder viewpoints. Recommendations align with organizational strategy and constraints."
+> "AI analysis is framed within recognised business strategy frameworks. Considers multiple stakeholder viewpoints. Recommendations align with organizational strategy and constraints."
 
 ### STEM/Sciences
 **Add/adjust:** "Methodological Rigor" criterion

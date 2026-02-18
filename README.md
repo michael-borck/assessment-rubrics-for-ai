@@ -15,10 +15,10 @@ Generic and customizable rubric framework for assessing assignments that integra
 ### For Users (Academic Staff)
 
 1. Download the Word documents from `outputs/docx/`:
-   - `1_README_Getting_Started.docx` — Start here
-   - `2_Generic_Rubric_Template.docx` — Your framework
-   - `3_Adaptation_Guide.docx` — How to customize
-   - `4_Example_CloudCore_Audit.docx` — Worked example
+   - `1_README_Getting_Started_v2.docx` — Start here
+   - `2_Generic_Rubric_Template_v2.docx` — Your framework
+   - `3_Adaptation_Guide_v2.docx` — How to customise
+   - `4_Example_CloudCore_Audit_v2.docx` — Worked example
 
 2. Follow the workflow outlined in the README
 

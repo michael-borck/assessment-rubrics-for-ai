@@ -1,0 +1,74 @@
+SUBJECT: Assessment Rubrics for AI-Integrated Learning — Ready to Use in Your Unit
+
+---
+
+Hi colleagues,
+
+Over the past months, I've been developing a customizable rubric framework for assessing assignments where students engage with AI tools. This work has been shaped by our teaching in the School of Management and Marketing and tested with real assignments (like our CloudCore audit). We're now releasing this resource to the wider school community.
+
+I'm attaching four Word documents that form a complete suite. Here's how to use them:
+
+**THE WORKFLOW (3 STEPS)**
+
+1. Start with: 1_README_Getting_Started_v2.docx
+   → Quick overview of the philosophy and what you'll find
+
+2. Review: 2_Generic_Rubric_Template_v2.docx
+   → This is your core framework (5 criteria, 4-level scoring)
+   → Works across disciplines and AI tools
+
+3. Customise: Use 3_Adaptation_Guide_v2.docx
+   → Shows exactly how to tailor the rubric for your context
+   → Includes examples for LLMs, chatbots, code assistants, data tools, creative AI
+   → Discipline-specific guidance (Business, STEM, Humanities, Law)
+
+4. (Optional) See: 4_Example_CloudCore_Audit_v2.docx
+   → Concrete example from an information security audit
+   → Shows what a customised rubric looks like in practice
+
+
+**WHY THIS MATTERS**
+
+These rubrics are designed around one key principle: critical thinking about AI tools matters more than speed of tool use. Students should learn to evaluate AI outputs, understand limitations, and take responsibility for final work—not just accept AI suggestions uncritically.
+
+If that aligns with what you're trying to teach, this framework is for you.
+
+
+**WHAT TO DO NEXT**
+
+Pick a unit where you're thinking about integrating AI assessment:
+- Download the adapted rubric template
+- Customise it for your specific context (the guide tells you how)
+- Use it with your students
+
+If you get stuck or have questions, happy to workshop this with you.
+
+
+**A NOTE ABOUT SHARING**
+
+These materials are authored by me and developed for Curtin University. You can absolutely adapt and use them within the university—that's exactly what they're designed for. If you think they'd be valuable at another institution or want to publish them somewhere, just let me know first. It's a simple conversation.
+
+This isn't about restriction; it's about making sure we can track how useful these resources are and maintain quality as they spread.
+
+
+**OPTIONAL: IF YOU WANT TO STAY UPDATED**
+
+These rubrics live in a GitHub repository (https://github.com/michael-borck/assessment-rubrics-for-ai) where I'll maintain and update them. If you're interested in seeing updates as they happen or want to contribute ideas, you can watch the repo. But honestly, for most purposes, using the attached Word documents is simpler.
+
+
+**QUESTIONS?**
+
+If the framework doesn't quite fit your unit, or you need a discipline-specific variant, let me know. I'm keen to see how this gets adapted across different contexts.
+
+---
+
+Michael
+
+Dr Michael Borck
+AI Facilitator
+School of Management and Marketing
+Curtin University
+
+---
+
+**P.S.** — All documents include copyright attribution. Feel free to customize them for your unit, but please keep the authorship notice intact if you share them with colleagues.
