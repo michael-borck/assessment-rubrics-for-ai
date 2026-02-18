@@ -1,4 +1,12 @@
+---
+author: "Michael Borck, AI Facilitator, School of Management and Marketing, Curtin University"
+date: "February 2026"
+copyright: "© 2026 Michael Borck. All rights reserved."
+---
+
 # AI-Integrated Assessment Rubric Template
+
+> **Copyright Notice:** This document and all materials in this suite are authored by Michael Borck (AI Facilitator, School of Management and Marketing, Curtin University). They are provided for use within Curtin University. External distribution, reproduction, or use outside Curtin University requires explicit written permission.
 
 **Purpose:** Generic framework for assessing assignments where students engage with or use AI tools as part of their learning. Adaptable across disciplines and AI modalities (chatbots, LLMs, simulations, RAG systems, agents, etc.).
 

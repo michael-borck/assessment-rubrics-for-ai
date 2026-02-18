@@ -1,4 +1,12 @@
+---
+author: "Michael Borck, AI Facilitator, School of Management and Marketing, Curtin University"
+date: "February 2026"
+copyright: "© 2026 Michael Borck. All rights reserved."
+---
+
 # Rubric Adaptation Guide: Different AI Tools & Contexts
+
+> **Copyright Notice:** This document and all materials in this suite are authored by Michael Borck (AI Facilitator, School of Management and Marketing, Curtin University). They are provided for use within Curtin University. External distribution, reproduction, or use outside Curtin University requires explicit written permission.
 
 This guide shows how to adapt the generic rubric template to different AI modalities and disciplines. Start with the template, then customize using examples below.
 

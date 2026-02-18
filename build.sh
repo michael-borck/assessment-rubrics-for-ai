@@ -19,6 +19,8 @@ if ! command -v pandoc &> /dev/null; then
 fi
 
 # Convert each markdown file to docx
+# Pandoc automatically extracts metadata (author, date, copyright) from YAML frontmatter
+# and includes it in Word document properties
 for md_file in "$SOURCES_DIR"/*.md; do
     filename=$(basename "$md_file")
     docx_name="${filename%.md}.docx"

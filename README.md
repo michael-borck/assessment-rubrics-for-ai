@@ -2,6 +2,10 @@
 
 Generic and customizable rubric framework for assessing assignments that integrate AI tools (chatbots, LLMs, RAG systems, code assistants, creative AI, etc.) across disciplines.
 
+**© 2026 Michael Borck**, AI Facilitator, School of Management and Marketing, Curtin University
+
+**For Curtin University use.** For external distribution or use outside Curtin University, see [LICENSE.md](LICENSE.md).
+
 **For academic staff:** Start with the documents in `outputs/docx/` in numerical order.
 
 ---
@@ -132,9 +136,13 @@ Developed for Curtin University's A2030 initiative by Dr Michael Borck (Business
 
 ---
 
-## License
+## License & Terms of Use
 
-[Add your institution's license/sharing policy]
+**© 2026 Michael Borck**, AI Facilitator, School of Management and Marketing, Curtin University
+
+For use within Curtin University. External distribution, reproduction, or use outside Curtin University requires explicit written permission.
+
+See [LICENSE.md](LICENSE.md) for full terms.
 
 ---
 

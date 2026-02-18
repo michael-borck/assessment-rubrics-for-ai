@@ -1,5 +1,13 @@
+---
+author: "Michael Borck, AI Facilitator, School of Management and Marketing, Curtin University"
+date: "February 2026"
+copyright: "© 2026 Michael Borck. All rights reserved."
+---
+
 # AI Audit Assessment Rubric - Specific Example
 ## (CloudCore Information Security Audit)
+
+> **Copyright Notice:** This document and all materials in this suite are authored by Michael Borck (AI Facilitator, School of Management and Marketing, Curtin University). They are provided for use within Curtin University. External distribution, reproduction, or use outside Curtin University requires explicit written permission.
 
 **Context:** Students conduct an audit of a simulated AI-driven organization by interacting with AI "employees" (chatbots) and using LLMs as research tools. This rubric balances investigation quality, critical AI evaluation, and professional reporting.
 
