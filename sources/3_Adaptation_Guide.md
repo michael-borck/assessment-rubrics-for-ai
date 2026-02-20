@@ -111,7 +111,7 @@ This guide shows how to adapt the generic rubric template to different AI modali
 - Critical Engagement: 35% (testing/validation essential)
 - Quality of Inquiry: 15% (different meaning in this context)
 - Communication: 20% (code comments, documentation)
-- Reflective Practice: 10% (how decisions were made)
+- Conversation Quality: 10% (iterative prompting, challenging AI suggestions)
 
 ---
 
@@ -174,8 +174,8 @@ This guide shows how to adapt the generic rubric template to different AI modali
 
 ## Quick Reference: Weighting by Discipline/Context
 
-| Context | Critical Engagement | Inquiry Quality | Reflection | Communication | Disciplinary Depth |
-|---------|-------------------|-----------------|-----------|---------------|--------------------|
+| Context | Critical Engagement | Inquiry Quality | Conversation Quality | Communication | Disciplinary Depth |
+|---------|-------------------|-----------------|---------------------|---------------|--------------------|
 | Chatbot Simulation | 35% | 25% | 15% | 15% | 10% |
 | LLM Writing Tool | 30% | 15% | 20% | 20% | 15% |
 | Data Analysis | 35% | 20% | 15% | 20% | 10% |
@@ -241,6 +241,9 @@ When adapting for your specific assessment:
 
 ❌ **Don't:** Assume all students know how to "prompt well"
 ✓ **Do:** Teach and demonstrate effective AI engagement first
+
+❌ **Don't:** Rely on self-reported reflection as primary evidence of AI engagement
+✓ **Do:** Require raw conversation transcripts — AI can generate convincing reflections, but genuine interaction patterns (iterative questioning, pushback, steering) are much harder to fake
 
 ---
 

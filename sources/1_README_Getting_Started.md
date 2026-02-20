@@ -36,17 +36,20 @@ Three complementary documents:
 
 ## The Philosophy Behind These Rubrics
 
+✓ **Conversation, not delegation**
+- The quality of the AI interaction itself is the evidence of thinking — students submit raw conversation transcripts, not polished reflections
+
 ✓ **Critical thinking matters more than tool efficiency**
 - Students should learn to evaluate AI outputs, not just generate them quickly
 
 ✓ **Transparency is an integrity measure, not a compliance burden**
-- Documenting AI use (and reflection on it) is a valued skill
+- Documenting AI use is a valued skill; conversation transcripts make this natural
 
-✓ **AI as "junior intern" is the right metaphor**
-- Students are responsible for all outputs; AI is a tool they must manage
+✓ **AI as thinking partner, not content generator**
+- Students are responsible for all outputs; AI is a tool they must actively steer, challenge, and refine with
 
 ✓ **Process matters as much as product**
-- How students gather information, evaluate it, and refine their thinking is assessable
+- How students question, iterate, and push back on AI is assessable through their transcripts
 
 ✓ **Discipline-specific context is essential**
 - One rubric doesn't fit all; customization is built-in
@@ -86,8 +89,8 @@ Find your AI modality, see the customization guidance, adjust weights/descriptor
 ### "Critical Engagement with AI" as Primary Criterion (30%)
 **Why?** This is the differentiator. Any tool can generate fast output; critical evaluation is the skill worth rewarding. This should be your unit's competitive advantage over generic assignment templates.
 
-### Reflection & Accountability Weighted (20%)
-**Why?** Reflection (especially honest reflection on what AI got wrong) is where students develop judgment. Accountability ensures integrity.
+### Conversation Quality & Accountability Weighted (20%)
+**Why?** AI can generate convincing reflections, making self-reported reflection easy to game. Raw conversation transcripts are stronger evidence: the quality of iterative questioning, challenging assumptions, and steering the AI reveals genuine thinking. Even students who try to shortcut this process still learn by engaging with what good questions look like. Accountability ensures integrity.
 
 ### Discipline-Specific Integration (10%)
 **Why?** Keeps rubric grounded. Students should connect AI engagement to *your* field, not just use generic tools.
@@ -118,9 +121,9 @@ Customize the language to match what they actually have access to.
 - Transparency is required, not penalized
 - Critical thinking about AI (including saying "this output was wrong") is valued
 - Accountability is explicit
-- Reflection exposes when students are genuinely engaging vs. just using shortcuts
+- Raw conversation transcripts are harder to fake than polished reflections — AI can generate convincing self-reported reflection, but the pattern of a genuine back-and-forth interaction (iterative questioning, challenging outputs, changing direction) is much harder to fabricate
 
-If you see undeclared AI use, the rubric criteria (especially Reflection) make it visible.
+If you see undeclared AI use, the rubric criteria (especially Conversation Quality) make it visible through transcript evidence.
 
 ---
 
@@ -138,14 +141,14 @@ Include:
 - Which rubric criteria apply
 - What tools students will (and won't) have access to
 - Examples of good prompting/questioning
-- How reflection should be documented
+- Requirement to submit raw conversation transcripts (unedited AI interaction logs)
 - Academic integrity expectations (with transparency as the core principle)
 
 ### During Marking
-- Look for evidence in student transcripts/reflections: Can you see their thinking?
-- Note whether students validated AI outputs
-- Credit iterative refinement as highly as final product
-- If reflection is honest (including failures), that's excellent performance
+- Read student conversation transcripts: Can you see iterative questioning, follow-ups, and pushback?
+- Look for patterns: Does the student steer the AI, or passively accept outputs?
+- Note whether students challenged AI assumptions and validated outputs
+- Credit quality of interaction as highly as final product — a transcript showing genuine intellectual engagement is strong evidence of learning
 
 ### After Marking
 - Calibrate with colleagues using this rubric

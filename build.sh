@@ -23,7 +23,7 @@ fi
 # and includes it in Word document properties
 # Version number added to distinguish from previous releases
 
-VERSION="v2"
+VERSION="v3"
 
 for md_file in "$SOURCES_DIR"/*.md; do
     filename=$(basename "$md_file")
