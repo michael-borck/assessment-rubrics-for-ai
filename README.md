@@ -1,5 +1,9 @@
 # Assessment Rubrics for AI-Integrated Learning
 
+<!-- BADGES:START -->
+[![ai](https://img.shields.io/badge/-ai-ff6f00?style=flat-square)](https://github.com/topics/ai) [![assessment](https://img.shields.io/badge/-assessment-blue?style=flat-square)](https://github.com/topics/assessment) [![docx](https://img.shields.io/badge/-docx-blue?style=flat-square)](https://github.com/topics/docx) [![education](https://img.shields.io/badge/-education-blue?style=flat-square)](https://github.com/topics/education) [![git](https://img.shields.io/badge/-git-blue?style=flat-square)](https://github.com/topics/git) [![markdown](https://img.shields.io/badge/-markdown-blue?style=flat-square)](https://github.com/topics/markdown) [![pandoc](https://img.shields.io/badge/-pandoc-blue?style=flat-square)](https://github.com/topics/pandoc) [![rubrics](https://img.shields.io/badge/-rubrics-blue?style=flat-square)](https://github.com/topics/rubrics) [![shell](https://img.shields.io/badge/-shell-blue?style=flat-square)](https://github.com/topics/shell) [![templates](https://img.shields.io/badge/-templates-blue?style=flat-square)](https://github.com/topics/templates)
+<!-- BADGES:END -->
+
 Generic and customizable rubric framework for assessing assignments that integrate AI tools (chatbots, LLMs, RAG systems, code assistants, creative AI, etc.) across disciplines.
 
 **© 2026 Michael Borck**, AI Facilitator, School of Management and Marketing, Curtin University
